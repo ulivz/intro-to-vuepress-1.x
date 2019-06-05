@@ -1,0 +1,15 @@
+{
+  "name": "intro-to-vuepress-1.x",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ulivz/intro-to-vuepress-1.x.git",
+  "author": "真山 <haoli.chl@antfin.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node scripts/launch.js"
+  },
+  "devDependencies": {
+    "inquirer": "^6.3.1",
+    "vuepress": "next"
+  }
+}
