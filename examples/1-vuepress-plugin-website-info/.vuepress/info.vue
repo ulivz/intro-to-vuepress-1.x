@@ -7,7 +7,7 @@
     
     <div id="content">
       <div
-        class="#page"
+        class="ui-page"
         v-for="page in pages"
       >
         <a class="title" :href="page.path">
@@ -16,6 +16,7 @@
             ({{ page.charsCount }}')
           </span>
         </a>
+        <div class="link">{{ page.path }}</div>
       </div>
     </div>
   </div>
@@ -57,6 +58,9 @@
     margin-bottom 30px
   
   #content
+    .ui-page
+      margin-bottom 20px
+      
     .title
       font-weight 400
       letter-spacing 2px
@@ -66,4 +70,9 @@
         font-style italic
         font-size 0.7em
         color #999
+        
+  .link
+    font-size 1.5em
+    font-family Serif
+    color #999
 </style>

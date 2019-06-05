@@ -10,6 +10,7 @@
   },
   "devDependencies": {
     "inquirer": "^6.3.1",
-    "vuepress": "next"
+    "vuepress": "next",
+    "@vuepress/theme-blog": "latest"
   }
 }
