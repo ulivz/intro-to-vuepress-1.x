@@ -2,9 +2,6 @@
 layout: CustomLayout
 ---
 
-::: slot title
-# Markdown Slots Example
-:::
 
 ::: slot left
 # Features

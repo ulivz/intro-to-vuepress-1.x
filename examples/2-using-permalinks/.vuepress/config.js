@@ -1,5 +1,5 @@
 module.exports = {
   plugins: [
-    require('../../1-vuepress-plugin-website-info/.vuepress/vuepress-plugin-website-info')
+    require('../../1-write-a-vuepress-plugin/.vuepress/vuepress-plugin-website-info')
   ]
 }
