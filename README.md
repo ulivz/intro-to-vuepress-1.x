@@ -1,6 +1,6 @@
 # Intro to VuePress 1.x
 
-This is VuePress examples collection, which is for 3th VueConf CN in Shanghai.
+This project contains several VuePress examples, which is for 3th VueConf CN in Shanghai.
 
 ## Quick Start 
 
@@ -21,21 +21,6 @@ And you will get 6 examples:
   5-theme-inheritance
   6-blogging
 ```
-
-## Examples
-
-### Write a VuePress plugin
-
-### Using Permalinks
-
-### Using markdown slot
-
-### Vue SFC as source pages
-
-### Theme Inheritance
-
-### Blogging
-
 
 ## LICENSE
 
