@@ -24,6 +24,6 @@ And you will get 6 examples:
 
 ## LICENSE
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Greenkeeper badge](https://badges.greenkeeper.io/ulivz/intro-to-vuepress-1.x.svg)](https://greenkeeper.io/)
 
 To the extent possible under law, [ULIVZ](https://github.com/ulivz) has waived all copyright and related or neighboring rights to this work.
